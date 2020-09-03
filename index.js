@@ -1,1 +1,1 @@
-console.log ( "Hello Commit 39! Welcome.")
+console.log ( "Hello Commit 40! Welcome.")
